@@ -21,8 +21,7 @@ The type of visa that is required for you to travel to the US is a J-1 visa, whi
 Complete the online visa application form, DS-160. The DS-160 is a U.S. Government online form and can only be completed at https://ceac.state.gov/CEAC. Each applicant must complete this form.
 
 Go to https://ais.usvisa-info.com/en-gb/niv/information/niv and complete the following application steps to schedule a Consular Section appointment:
-Create a user account.
-
+- Create a user account.
 - Add applicant information to complete the registration.
 - Enter the DS-160 confirmation number for each applicant applying for a visa.
 - Provide an address or select a location where you want to receive your documents from the Consular Section.
