@@ -4,6 +4,7 @@
 - [Affiliation](#affiliation)
 - [Visa process](#visa-process)
 - [Insurance](#insurance)
+- [South Dakota Housing](south-dakota-housing)
 
 The road to LTA approval is long and hard but stick it out and eventually you'll see the light at the end of the tunnel.
 
@@ -17,17 +18,15 @@ The first step to your LTA is to get the J-1 Visa in order to legally 'work' in 
 
 For this process to begin, you (or your supervisor) need to send an email to Simon Fiorucci (sfiorucci@lbl.gov) describing the potential dates and duration of your LTA and ask for you to become an LBNL affiliate. This will enable you to receive an invitation to work in the US. Once he contacts HR at LBNL, you'll receive a few emails about becoming an affiliate at the Lab. Tire through those and you'll become an affiliate!
 
-Once that's gone through, HR will be in touch within a week or two, detailing the next steps and sending you a physical copy of your official invitation to the States. This is called the DS-2019 form and consists of two pages, the first with a few administrative details and the second with the terms and conditions of this invitation. **Make sure you check the program start and end date,** as your visa will be voided if you enter the states 30 days before or after that day. The only field that you should fill is on the bottom of the first page where you need to sign and date the form.
-
-**Steps required to apply for a US visa**
-
-If required to apply for a visa to travel to the United States the process includes the following steps:
+Once that's gone through, HR will be in touch within a week or two, detailing the next steps and sending you a physical copy of your official invitation to the States. This is called the DS-2019 form and consists of two pages, the first with a few administrative details and the second with the terms and conditions of this invitation. **Make sure you check the program start and end date,** as your visa will be void if you enter the states 30 days before or after that day. The only field that you should fill is on the bottom of the first page where you need to sign and date the form.
 
 ## Visa process
 
 The type of visa that is required for you to travel to the US is a J-1 visa, which the exchange visitor category **Research Scholar**
 
-Complete the online visa application form, DS-160. The DS-160 is a U.S. Government online form and can only be completed at https://ceac.state.gov/CEAC. Each applicant must complete this form.
+Make sure you check the DS-2019 form and upon receiving it, you must pay a $220 Student and Exchange Visitor Information System (SEVIS) I-901 fee at https://www.fmjfee.com/i901fee/index.jsp.
+
+You then need to complete the Online Nonimmigrant Visa Application (DS-160). The DS-160 is a U.S. Government online form and can be completed at https://ceac.state.gov/CEAC. 
 
 Go to https://ais.usvisa-info.com/en-gb/niv/information/niv and complete the following application steps to schedule a Consular Section appointment:
 - Create a user account.
@@ -44,5 +43,15 @@ Go to https://ais.usvisa-info.com/en-gb/niv/information/niv and complete the fol
 You now need to alert your supervisor and the research admin that you will be travelling to the US on particular dates. They need to start arranging your travel and health insurance. 
 
 You will need to fill out a risk assessment from the univerity, examples of previous risk assessments should be available from your supervisor or the research administrator.
+
+## South Dakota Housing
+
+For housing, there are two houses available, the [LBL House](https://drive.google.com/file/d/1xJvoxBKB8FbjktQFEffUa4YPydjImP0k/view) and the [UK Deadwood house](https://docs.google.com/document/d/1cbKeTI345icDmHBoByGQe5O2jLcjng7-V4L0eOOgrG0/edit).
+
+The LBL House is in Lead, right by SURF so it is accessible by walking. The UK house is in Deadwood which is the town away from Lead, approx 10-15 mins drive away. Generally, if you cannot drive or don't have a license, you should be housed in the LBL House. 
+
+Once you have told Simon/Aaron about your dates, you should also tell them about the house that you would prefer to stay at. They'll enter you into this [spreadsheet](https://docs.google.com/spreadsheets/d/1SMkgIyFvKb2PW6I3xiSCJzSXFBEydVEeGycW02au5Po/edit#gid=799603377) which tracks who is staying in which house.
+
+
 
 
