@@ -4,7 +4,8 @@
 - [Affiliation](#affiliation)
 - [Visa process](#visa-process)
 - [Insurance](#insurance)
-- [South Dakota Housing](south-dakota-housing)
+- [South Dakota Housing](#south-dakota-housing)
+- [Miscellaneous](#miscellaneous)
 
 The road to LTA approval is long and hard but stick it out and eventually you'll see the light at the end of the tunnel.
 
@@ -53,5 +54,12 @@ The LBL House is in Lead, right by SURF so it is accessible by walking. The UK h
 Once you have told Simon/Aaron about your dates, you should also tell them about the house that you would prefer to stay at. They'll enter you into this [spreadsheet](https://docs.google.com/spreadsheets/d/1SMkgIyFvKb2PW6I3xiSCJzSXFBEydVEeGycW02au5Po/edit#gid=799603377) which tracks who is staying in which house.
 
 
-
+## Miscellaneous 
+### Bank/Credit Cards:
+- Consider ordering a debit card which doesn't charge foreign transaction fees e.g. Monzo, Revolut, Starling
+- Be careful to read the terms and conditions of the cards e.g. Revolut don't allow more than £300 cash withdrawals per month
+### Phone
+- Phone plans are very expensive here
+- Consider opting for roaming on your UK plans and using apps like [Airalo](https://www.airalo.com) for additional mobile data at local rates
+- [Mint Mobile](https://www.mintmobile.com) seems to be affordable and works well around Lead (less so in Deadwood)
 
